@@ -4,7 +4,7 @@ const accountId = 12344
 let accountEmail = "vivek@google.com"
 var accountPassword = "1234"
 accountCity = "Delhi"      //works without let but not recommended
-let accountType;    //undefined not 0
+let accountType;    //it is declared but has no value, so it is not '0' or 'null', it is undefined
 
 
 /*

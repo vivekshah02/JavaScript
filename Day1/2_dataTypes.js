@@ -13,8 +13,10 @@ let isLoggedIn = true     //boolean
 //bigint
 //string
 //Boolean -> true/false
-//null ->standalone value
-//undefined -> value not defined currently
+//null ->standalone value(empty)i.e., it is assigned to a variable
+// example weather data of future, it is not 0 , it is unknown(empty)
+
+//undefined -> value not defined currently but the variable is declared
 //symbol ->uniqueness
 
 //object
